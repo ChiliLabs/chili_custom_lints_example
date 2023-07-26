@@ -1,4 +1,4 @@
-A sample app that uses Chili Custom Lints via [custom_lint](https://pub.dev/packages/custom_lint) package 
+A sample app that uses [Chili custom lints](https://github.com/ChiliLabs/chili_custom_lints) via [custom_lint](https://pub.dev/packages/custom_lint) package 
 
 ## Getting Started
 
